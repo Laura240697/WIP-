@@ -1,0 +1,2 @@
+# WIP-
+Projekte der Wirtschaftsinformatik
